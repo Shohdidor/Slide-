@@ -1,0 +1,7 @@
+{
+  "data" : {
+    "name" : "Peter Parker",
+    "img" : "img/Rock.jpg",
+    "isCompleted" : false
+  }
+}
